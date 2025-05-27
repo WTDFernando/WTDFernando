@@ -24,9 +24,17 @@ I specialize in Manual & Automation Testing using Playwright, Selenium, Postman,
 ## 🔥 GitHub Stats
 
 <p align="center">
+  <b>📂 Repositories reflect real-world QA scenarios and hands-on project work:</b><br/>
+  <ul align="left">
+    <li>✨ Built and tested multiple web applications using PHP, HTML, and JavaScript.</li>
+    <li>🔢 Validated responsive UI designs across devices and browsers.</li>
+    <li>🔍 Focused on functionality testing, input validation, and bug fixing.</li>
+    <li>✅ Applied testing best practices even in non-testing repos to improve code reliability.</li>
+  </ul>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=thusharafernando&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharafernando&layout=compact&theme=radical&langs_count=10&hide=css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharafernando&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
